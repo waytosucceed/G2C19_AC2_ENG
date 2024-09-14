@@ -1,0 +1,201 @@
+[
+  {
+      "questionNo": "Q1.",
+      "question": "In the sentence 'The dog barks,' what is the subject?",
+      "options": [
+          "barks",
+          "The dog",
+          "The"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q2.",
+      "question": "In 'Birds fly high,' what is the predicate?",
+      "options": [
+          "Birds",
+          "high",
+          "fly high"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q3.",
+      "question": "Fill in the blank: In 'The sun _____ brightly,' the word that completes the predicate is:",
+      "options": [
+          "the",
+          "shines",
+          "high"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q4.",
+      "question": "Which sentence has the same subject as 'The cat sleeps'?",
+      "options": [
+          "The cat plays.",
+          "The dog runs.",
+          "Birds sing."
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q5.",
+      "question": "In 'Happy children play,' what is the subject?",
+      "options": [
+          "Happy",
+          "children",
+          "play"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q6.",
+      "question": "Fill in the blank: The subject in '_____ taste sweet' is:",
+      "options": [
+          "Apple",
+          "taste",
+          "sweet"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q7.",
+      "question": "In 'Flowers bloom in spring,' what is the predicate?",
+      "options": [
+          "Flowers",
+          "bloom",
+          "bloom in spring"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q8.",
+      "question": "Every sentence must have both a subject and a predicate.",
+      "options": [
+          "True",
+          "False"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q9.",
+      "question": "Fill in the blank: In 'The _____ shines bright,' the word that completes the subject is:",
+      "options": [
+          "moon",
+          "shines",
+          "bright"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q10.",
+      "question": "In 'Soft pillows feel comfy,' what is the subject?",
+      "options": [
+          "Soft",
+          "pillows",
+          "comfy"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q11.",
+      "question": "Which sentence has the same predicate as 'The boy runs fast'?",
+      "options": [
+          "The girl jumps high.",
+          "The man runs fast.",
+          "The boy walks slowly."
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q12.",
+      "question": "In 'The turtle walks slowly,' what is the predicate?",
+      "options": [
+          "walks slowly",
+          "the turtle",
+          "walks"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q13.",
+      "question": "Fill in the blank: In 'Cats _____ milk,' the word that completes the predicate is:",
+      "options": [
+          "are",
+          "drink",
+          "white"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q14.",
+      "question": "Which is the subject in 'Under the tree sat a rabbit'?",
+      "options": [
+          "Under",
+          "tree",
+          "rabbit"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q15.",
+      "question": "In 'The big clock ticks,' what is the predicate?",
+      "options": [
+          "The big clock",
+          "big",
+          "ticks"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q16.",
+      "question": "Fill in the blank: The predicate in 'The car _____ red' is:",
+      "options": [
+          "the",
+          "car",
+          "is"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q17.",
+      "question": "In 'Happy dogs wag their tails,' what is the subject?",
+      "options": [
+          "wag",
+          "dogs",
+          "tails"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q18.",
+      "question": "Which sentence has a different subject?",
+      "options": [
+          "The sun rises.",
+          "The sun sets.",
+          "The moon glows."
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q19.",
+      "question": "In 'The funny clown laughs,' what is the subject?",
+      "options": [
+          "funny",
+          "clown",
+          "laughs"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q20.",
+      "question": "What's the predicate in 'Butterflies flutter beautifully'?",
+      "options": [
+          "Butterflies",
+          "flutter",
+          "flutter beautifully"
+      ],
+      "correct": 2
+  }
+]
